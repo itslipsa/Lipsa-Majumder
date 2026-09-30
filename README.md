@@ -4,7 +4,7 @@
 
 ### 👩‍💻 CSE Undergraduate · Problem Solver · Builder in Progress 🌸
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=D6336C&center=true&vCenter=true&width=520&lines=Learn.+Build.+Break.+Fix.+Repeat.;C+%2F+C%2B%2B+%7C+DSA+%7C+OOP;Turning+curiosity+into+code+%F0%9F%92%97" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=f5a2bf&center=true&vCenter=true&width=520&lines=Learn.+Build.+Break.+Fix.+Repeat.;C+%2F+C%2B%2B+%7C+DSA+%7C+OOP;Turning+curiosity+into+code+%F0%9F%92%97" alt="Typing SVG" />
 
 ![Location](https://img.shields.io/badge/📍_Bangladesh-ff69b4?style=for-the-badge)
 ![Student](https://img.shields.io/badge/🎓_CSE_Student-9d4edd?style=for-the-badge)
