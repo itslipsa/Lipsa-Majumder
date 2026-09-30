@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✨ Hi, I'm Lipsa Majumder ✨
+# 🌸 Hi, I'm Lipsa Majumder 🌸
 
 ### 👩‍💻 CSE Undergraduate · Problem Solver · Builder in Progress 🌸
 
