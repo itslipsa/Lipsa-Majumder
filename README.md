@@ -91,8 +91,8 @@ Outside of code, I enjoy crafting **presentations**, exploring **new technologie
 <div align="center">
 
 <!-- Replace YOUR_USERNAME with your GitHub username -->
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=itslipsa&show_icons=true&theme=radical&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itslipsa&layout=compact&theme=radical&hide_border=true" />
 
 </div>
 
